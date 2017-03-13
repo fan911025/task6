@@ -30,7 +30,7 @@ max-width: 720px;
 margin-top:90px;
         }
 .dropdown button{
-    border-radius: 4px;
+    border-radius: 0px;
     margin-right: 0;
     width: 33.333333333333333333333333333333333333333333%;
     float:left;
@@ -51,36 +51,36 @@ margin-top:90px;
 .riqi{    
     font-size: 13px;
     margin-left: 13%;
-    padding-top:6%;
-    color:#dadcdd;
+    padding-top: 22px;
+    color: #dadcdd;
 }
 .shijian{
-    font-size: 13px;
+font-size: 13px;
     margin-left: 13%;
-    padding-top: 2%;
+    padding-top: 9px;
         }
 .dizhi{
     font-size: 13px;
     margin-left: 13%;
-    padding-top: 1.5%;
-    color:#dadcdd;
+    padding-top: 6px;
+    color: #dadcdd;
       }
  .neirong1{
     width: 100%;
     background-color: #FFF;
     background-image: url(images/img.png);
     background-repeat: no-repeat;
-    background-position: 4% 56%;
+    background-position: 4% 21px;
     background-size: 17px;
     border-top: solid 1px #dbddde;
-    padding-bottom: 4%;
+    padding-bottom: 21px;
     margin-top: 108px;
          } 
  .neirong1 img{
     float: right;
-    margin-top: -50px;
+    margin-top: -44px;
     margin-right: 2%;
-    width: 2%;
+    width: 13px;
       } 
  .jiage{
     float: right; margin-right: 3%;
@@ -88,20 +88,20 @@ margin-top:90px;
     font-size: 4vw;
        }   
 .neirong2{
-      width: 100%;
+        width: 100%;
     background-color: #FFF;
     background-image: url(images/img.png);
     background-repeat: no-repeat;
-    background-position: 4% 56%;
+    background-position: 4% 21px;
     background-size: 17px;
     border-top: solid 1px #dbddde;
-    padding-bottom: 4%;
+    padding-bottom: 21px;
          }
 .neirong2 img{
     float: right;
-    margin-top: -50px;
+    margin-top: -44px;
     margin-right: 2%;
-    width: 2%;
+    width: 13px;
             }
 .neirong3{
          width:100%;height:180px;border-top: solid 1px #dbddde;       
